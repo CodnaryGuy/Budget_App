@@ -9,3 +9,6 @@ I also used some HTML and CSS in the project.
 * The user can also edit or delete an entry.
 * This app has a Pie chart, so the user can easily compare the income and outcome.
 * The user's income and expense entry list is stored in the local storage, so when he refreshes the page or reboot his machine, he can always find his data there.
+
+# TextEditor Used:
+* Visual Studio Code (VS Code)
