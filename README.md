@@ -1,3 +1,5 @@
+![Screenshot (164)](https://user-images.githubusercontent.com/74415240/127172226-7023de33-5ba6-4c9d-af2c-8c1960639461.png)
+
 # Budget_App
 The Project is related to "Budget Manager" which is developed by using vanilla JavaScript.
 I also used some HTML and CSS in the project.
